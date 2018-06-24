@@ -1,5 +1,5 @@
 # RIOT_UDP_EchoServerExample
-UDP Echo Server Example Implementation in the RIOT Linux Native
+UDP Echo Server Example Implementation in the RIOT Linux Native.
 The server echos back the received UDP data with a delay of 1 second.
 
 Steps to execute and test.
