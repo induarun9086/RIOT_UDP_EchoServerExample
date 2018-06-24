@@ -4,7 +4,7 @@ The server echos back the received UDP data with a delay of 1 second.
 
 Steps to execute and test.
 
-1. Copy the folders "udpechoserver" and "udptxrx" into the examples folder of the RIOT folder structure.
+1. Copy the folders "udpechoserver" and "udptxrx" into the examples folder of the RIOT folder structure(cloned from https://github.com/RIOT-OS/RIOT).
    (If copied somewhere else the Makefiles has to be adapted accordingly)
 2. Execute make in both the directories. The native executeables for linux will be built.#
 3. Create two tap devices with the command "RIOT/dist/tools/tapsetup/tapsetup -c 2" 
